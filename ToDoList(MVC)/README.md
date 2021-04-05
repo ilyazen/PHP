@@ -1,2 +1,2 @@
 # php-framework
-Simple PHP OOP framework based on mvc
+Simple PHP OOP to-do-list based on mvc
